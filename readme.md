@@ -549,4 +549,4 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 译：尽可能根据法律，Sindre Sorhus放弃了本作品的所有版权和相关权利或相关权利。
 ```
 
-综上所述，本清单的译者同样放弃所有版权和相关的权利
+综上所述，本清单的译者同样放弃所权和相关的权利
